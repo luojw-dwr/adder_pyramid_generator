@@ -117,8 +117,6 @@ module adder_pyramid_%d(
     
     # generate footer
     print("endmodule;")
-    
-    return rt #TODO
 
 if __name__ == "__main__":
     import sys
